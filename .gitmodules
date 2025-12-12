@@ -1,0 +1,3 @@
+[submodule "capripack"]
+  path = src/resourcepacks/capripack
+  url = https://github.com/Juanestban/capripack
