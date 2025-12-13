@@ -1,2 +1,20 @@
+[minecraft]
+version = "1.21.10"
+
 [dependencies]
-mod_name = ""
+architectury = "18.0.8-fabric"
+betterstats = "4.0.0+fabric-1.21.10"
+cloth-config = "20.0.149-fabric"
+dark-loading-screen = "1.6.17"
+DistantHorizons = "2.3.6-b-1.21.10-fabric-neoforge"
+fabric-api = "0.138.3+1.21.10"
+fabric-carpet = "1.21.10-1.4.188+v251016"
+litematica-fabric = "1.21.10-0.24.5"
+lithium-fabric = "0.20.1+mc1.21.10"
+malilib-fabric = "1.21.10-0.26.6"
+modmenu = "16.0.0-rc.1"
+sagitario_zoomod = "0.3.0"
+sodium-fabric = "0.7.3+mc1.21.10"
+tcdcommons = "4.0.1+fabric-1.21.10"
+tweakermore = "3.28.0-mc1.21.10"
+XaerosWorldMap = "1.39.17-fabric-1.21.9"
